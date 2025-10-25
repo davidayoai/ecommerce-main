@@ -21,8 +21,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Hamroun Store',
-    default: 'Hamroun Store',
+    template: '%s | Daronika 2',
+    default: 'Daronika 2',
   },
   description: 'Modern ecommerce store built with Next.js',
   icons: {
